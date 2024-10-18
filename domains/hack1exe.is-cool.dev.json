@@ -1,0 +1,16 @@
+{
+  "description": "Portfolio Website",
+
+  "domain": "is-cool.dev",
+  "subdomain": "hack1exe",
+
+  "owner": {
+    "email": "dev.michailelectronshik@gmail.com"
+  },
+
+  "record": {
+    "NS": ["melinda.ns.cloudflare.com", "rajeev.ns.cloudflare.com"],
+  },
+
+  "proxied": false
+}
